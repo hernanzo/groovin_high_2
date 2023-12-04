@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GROOVIN&#39; HIGH</title>
-    <link>https://example.org/</link>
+    <link>https://hernanzo.github.io/groovin_high_2/</link>
     <description>Recent content on GROOVIN&#39; HIGH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hernanzo.github.io/groovin_high_2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Episodes</title>
-      <link>https://example.org/episodes/</link>
+      <link>https://hernanzo.github.io/groovin_high_2/episodes/</link>
       <pubDate>Sat, 02 Dec 2023 12:52:08 -0500</pubDate>
       
-      <guid>https://example.org/episodes/</guid>
+      <guid>https://hernanzo.github.io/groovin_high_2/episodes/</guid>
       <description>Episode 1: Groovin&amp;rsquo; High: The Real Book and the Materiality of Musical Practice.
 Episode 2: The Grammar of Music: Objects of Improvisation.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>https://hernanzo.github.io/groovin_high_2/about/</link>
       <pubDate>Sat, 02 Dec 2023 12:14:14 -0500</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>https://hernanzo.github.io/groovin_high_2/about/</guid>
       <description>Groovin&amp;rsquo; High analyzes a copy of the Real Book, as a non-sonic component of the practice of music. The Real Book, originally compiled by two students at the Berklee School of Music in the 1970s, is a compilation of lead sheets of popular songs that specify the basic elements of a composition: melody, lyrics, chord changes and structure. The Real Book was created as an update of the fake books, which were widely used by U.</description>
     </item>
     
     <item>
       <title>Episode 1: Groovin&#39; High: The Real Book and the Materiality of Musical Practice</title>
-      <link>https://example.org/second/</link>
+      <link>https://hernanzo.github.io/groovin_high_2/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/second/</guid>
+      <guid>https://hernanzo.github.io/groovin_high_2/second/</guid>
       <description>The first chapter will analyze the mechanics of the materiality of the Real Book; its gutter, its pagination, its binding, and its front and back covers will be conceptualized as prompts to action for an user. As exhortations for musicians to take certain actions, these elements were also designed to contain an inner property of materiality in action: its decay. The episode will try to uncover the changing historical contexts in which these actions were supposed to take place; from the 1940’s gigging professional musicians looking to be up-to-date with a popular musical repertoire, to contemporary students trying to learn the common places of a centenary songbook.</description>
     </item>
     
     <item>
       <title>Episode 2: The Grammar of Music: Objects of Improvisation</title>
-      <link>https://example.org/first/</link>
+      <link>https://hernanzo.github.io/groovin_high_2/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/first/</guid>
+      <guid>https://hernanzo.github.io/groovin_high_2/first/</guid>
       <description>This episode analyzes the materiality of the musical notation, as a non-verbal means to express a particular sonic event: a tune. As a symbolic language, the fonts, typographies, symbols, but also the marks and handwritten notes added by previous users, will be conceived as incitements to create and reproduce a sonic object. The interaction between these symbols and musicians through the Real Book creates a twofold roadmap, which includes both the reproduction of a set of melodies, but also for the background for musical improvisation and creation.</description>
     </item>
     
     <item>
       <title>The Real Book and the Materiality of Musical Practice</title>
-      <link>https://example.org/posts/home/</link>
+      <link>https://hernanzo.github.io/groovin_high_2/posts/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/home/</guid>
+      <guid>https://hernanzo.github.io/groovin_high_2/posts/home/</guid>
       <description>Groovin&amp;rsquo; High analyzes a copy of the Real Book, as a non-sonic component of the practice of music. The Real Book, originally compiled by two students at the Berklee School of Music in the 1970s, is a compilation of lead sheets of popular songs that specify the basic elements of a composition: melody, lyrics, chord changes and structure. The Real Book was created as an update of the fake books, which were widely used by U.</description>
     </item>
     
